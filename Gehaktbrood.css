@@ -1,0 +1,77 @@
+body {
+	padding: 0px;
+	margin: 0px;
+}
+
+#Horizontal-line {
+	width: 900px;
+	height: 1px;
+	background-color: silver;
+	margin-bottom: 20px;
+}
+
+#Hoofdgerecht {
+	margin: 0 25%;
+	font-family: 'Roboto', sans-serif;
+}
+
+.list {
+	margin-top: 10px;
+}
+
+.order {
+	margin-top: 10px;
+}
+
+#Tip {
+	background-color: #def6ed;
+	border-radius: 4px;
+	padding: 20px;
+}
+
+img {
+	height: 400px;
+	width: 	400px;
+}
+
+#NavBar {
+    list-style-type: none;
+    overflow: hidden;
+    background-color: #333333;
+    position: sticky;
+    top: 0;    
+    width: 100%
+  }
+  
+ #NavBar ul {
+ 	list-style: none;
+ }
+
+ #NavBar li {
+ 	float: left;
+ }
+
+ #NavBar li a {
+ 	display: block;
+ 	color: white;
+ 	text-align: center;
+ 	padding: 10px;
+ 	text-decoration: none;
+ 	margin-left: 270px
+ }
+
+#NavBar li a:hover {
+	background-color: #111111
+}
+
+
+
+
+
+
+
+
+
+
+
+
